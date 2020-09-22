@@ -1,5 +1,5 @@
 # flutter-realtime-pushups-detection
-A flutter realtime app which detects if a person is doing pushups or not.
+A flutter app which detects if a person is doing pushups or not in realtime.
 
 # Currently in development stage and only supports pushups estimation
 
