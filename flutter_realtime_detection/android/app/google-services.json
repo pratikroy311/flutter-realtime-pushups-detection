@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825542554470",
+    "firebase_url": "https://lifesaver-5c333.firebaseio.com",
+    "project_id": "lifesaver-5c333",
+    "storage_bucket": "lifesaver-5c333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825542554470:android:01f7d4578119cda3eecea7",
+        "android_client_info": {
+          "package_name": "com.pkroy.examplerealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825542554470-mts2ov49t4r9hcqcajip83sa5abktvab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-sb8KNdIl3EN7zSqrlTlzSEVlJn3ieQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825542554470-mts2ov49t4r9hcqcajip83sa5abktvab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
